@@ -36,7 +36,7 @@ public class PalindromeCheckerApp {
         System.out.println("Application Name : PalindromeChecker App");
         System.out.println("Version          : 1.0");
         System.out.println("System initialized successfully.");
-        System.out.println("Ready to proceed to next use case...");
+        System.out.println("Ready to proceed to next use case....,.");
 
     }
 }
